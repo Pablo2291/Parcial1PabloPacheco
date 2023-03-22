@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Parcial1PabloPacheco</string>
+    <string name="suma">SUMAR</string>
+    <string name="resta">RESTAR</string>
+    <string name="multiplicacion">MULTIPLICAR</string>
+    <string name="division">DIVIDIR</string>
+    <string name="num1">Dame numero 1</string>
+    <string name="num2">Dame  numero 2</string>
+    <string name="resul">RESULTADO</string>
+</resources>
